@@ -12,3 +12,5 @@ I designed a whole structure to implement the simulation of 4-bit addition and s
 1. Navigate to the [Release page](https://github.com/jingye-xu/Minecraft-Adder-with-Display/releases), Download the `Minecraft.addition.by.jy.zip`.  
 2. Extract the zip file and save the whole directory to `Minecraft Directory/saves/`
 3. Open Minecraft and enjoy!
+
+## [Minecraft Directory](https://minecraft.fandom.com/wiki/.minecraft)
